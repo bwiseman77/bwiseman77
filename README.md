@@ -7,4 +7,4 @@ bwiseman77/bwiseman77 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[linkedin]: www.linkedin.com/in/brett-wiseman77
+[linkedin]: https://www.linkedin.com/in/brett-wiseman77/
