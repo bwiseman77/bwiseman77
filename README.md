@@ -1,7 +1,7 @@
 # Hi there, I'm [Brett Wiseman][linkedin] 👋
 
 ## Occupation: 
-Computer Engineering Student University of Notre Dame]
+Computer Engineering Student University of Notre Dame
 
 ## Goals:
 make personal portfolio website <br>
