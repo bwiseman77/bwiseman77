@@ -1,4 +1,6 @@
-# Hi there, I'm [Brett Wiseman][linkedin] 👋
+Hi there, I'm [Brett Wiseman][linkedin] 👋
+=
+
 
 ## Occupation: 
 Computer Engineering Student University of Notre Dame
