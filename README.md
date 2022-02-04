@@ -10,8 +10,10 @@ About:
 
 ### Goals:
 1. Make personal portfolio website
-2. Learn react
+2. Build a chess application
 3. Learn about block chain
+4. learn about SMTP and build an email server
+5. Learn about / build a simple OS
 
 ### Currently learning:
 * Computer Networks
