@@ -4,6 +4,7 @@ Hi there, I'm [Brett Wiseman][linkedin]:bulb:
 Occupation:
 --
 Computer Engineering Student [University of Notre Dame][UND]
+Incoming Software Engineer Intern at VISA
 
 About:
 --
