@@ -18,15 +18,17 @@ About:
 5. Learn about / build a simple OS
 
 ### Currently learning:
-* Computer Networks
-* Electronics
-* Circuits
+* Cryptography
+* Compilers
+* Theory
 
 ### Recently learned:
-* Operating Systems Priniples
+* Operating Systems Principles
 * Computer Architecture
 * Systems Progamming
 * Data Structures
+* Computer Networks
+* Electronics
 
 
 Languages:
