@@ -14,10 +14,11 @@ About:
 1. Make personal portfolio website
 2. Build a chess application
 3. Learn about block chain
-4. learn about SMTP and build an email server
+4. build a simple bot application
 5. Learn about / build a simple OS
 
 ### Currently learning:
+* IBM Toolkit
 * Cryptography
 * Compilers
 * Theory
@@ -39,6 +40,7 @@ Languages:
 4. Matlab
 5. Verilog
 6. Assembly / ARM
+7. HTML & CSS
 <!---
 bwiseman77/bwiseman77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
