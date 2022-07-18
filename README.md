@@ -14,10 +14,10 @@ About:
 1. Setup personal NAS and homeserver from old desktop
 2. Build a chess application
 3. Learn about block chain
-4. build a simple bot application
+4. Build a simple bot application
 5. Learn about / build a simple OS
 6. Learn NodeJS 
-7. Backend of website to add fearures
+7. Learn Python WebDev
 
 #### Finished:
 1. Setup personal email server
