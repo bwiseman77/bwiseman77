@@ -11,13 +11,21 @@ About:
 --
 
 ### Goals:
-1. Make personal portfolio website
+1. Setup personal NAS and homeserver from old desktop
 2. Build a chess application
 3. Learn about block chain
 4. build a simple bot application
 5. Learn about / build a simple OS
+6. Learn NodeJS 
+7. Backend of website to add fearures
+
+#### Finished:
+1. Setup personal email server
+2. Make personal portfolio website
 
 ### Currently learning:
+* SWE practices
+* Java / Javascript
 * IBM Toolkit
 * Cryptography
 * Compilers
