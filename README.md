@@ -5,12 +5,23 @@ Occupation:
 --
 Computer Engineering Student [University of Notre Dame][UND]
 
-Incoming Software Engineer Intern at VISA
+Incoming Software Engineer at VISA
 
 About:
 --
+### Me
+- 🏡 Suburbs of Chicago
+- 🇮🇹 Chicago-Italian
+- 👩🏻‍💻 Computer Science Major
+- ☘️ ND '23 Lets go Irish!
 
-### Goals:
+### Interests
+- Ice Hockey 🏒🥅
+- Cooking 🍳
+- Coding new things, especially low level applications 
+
+Goals:
+--
 1. Setup personal NAS and homeserver from old desktop
 2. Build a chess application
 3. Learn about block chain
@@ -19,26 +30,26 @@ About:
 6. Learn NodeJS 
 7. Learn Python WebDev
 
-#### Finished:
-1. Setup personal email server
-2. Make personal portfolio website
+Currently learning:
+--
+* Design and Analysis of Algorithms
+* Distributed Systems
+* Droid Building
 
-### Currently learning:
+Recently learned:
+--
 * SWE practices
 * Java / Javascript
 * IBM Toolkit
 * Cryptography
 * Compilers
-* Theory
-
-### Recently learned:
+* Theory of Computing
 * Operating Systems Principles
 * Computer Architecture
 * Systems Progamming
 * Data Structures
 * Computer Networks
 * Electronics
-
 
 Languages:
 --
@@ -47,8 +58,11 @@ Languages:
 3. Bash
 4. Matlab
 5. Verilog
-6. Assembly / ARM
+6. X86 / ARM
 7. HTML & CSS
+8. Java
+9. Javascript
+10. Clojure
 <!---
 bwiseman77/bwiseman77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
